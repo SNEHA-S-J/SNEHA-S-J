@@ -1,11 +1,18 @@
--👋 Hi, I'm Sneha S J
--🔍 Passionate about Data Science & AI | 💻 Computer Science & Engineering Student
 
--🚀 Exploring the intersection of machine learning, cloud computing, and predictive analytics
--📊 Building projects in data science, AI, and software development
--🤝 Open to collaborations on data-driven solutions and innovative research
--📩 Reach me at s.j.sneha2005@gmail.com
--💡 Always learning, experimenting, and pushing the boundaries of technology!
+
+👋 Hi, I'm *Sneha S J*  
+
+🔍 Passionate about **Data Science & AI** | 💻 **Computer Science & Engineering Student**  
+
+🚀 Exploring the intersection of **machine learning, cloud computing, and predictive analytics**  
+
+📊 Building projects in **data science, AI, and software development**  
+
+🤝 Open to **collaborations on data-driven solutions and innovative research**  
+
+📩 Reach me at **s.j.sneha2005@gmail.com**  
+
+💡 Always learning, experimenting, and pushing the boundaries of **technology!**  
 
 
 
