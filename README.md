@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @SNEHA-S-J
-- 👀 I’m interested in Data science
-- 🌱 I’m currently learning computer science and engineering
-- 💞️ I’m looking to collaborate on the field of data science
-- 📫 How to reach me @s.j.sneha2005@gmail.com
+👋 Hi, I'm Sneha S J
+🔍 Passionate about Data Science & AI | 💻 Computer Science & Engineering Student
+
+🚀 Exploring the intersection of machine learning, cloud computing, and predictive analytics
+📊 Building projects in data science, AI, and software development
+🤝 Open to collaborations on data-driven solutions and innovative research
+📩 Reach me at s.j.sneha2005@gmail.com
+💡 Always learning, experimenting, and pushing the boundaries of technology!
+
+
 
 <!---
 SNEHA-S-J/SNEHA-S-J is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
